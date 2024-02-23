@@ -1,12 +1,16 @@
 {
   "name": "maximoff",
   "version": "1.0.0",
-  "description": "",
+  "description": "Unified configuration system for Python modules",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["configuration", "Python", "modules", "unified", "config"],
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lagrangedot/maximoff"
+  }
 }
